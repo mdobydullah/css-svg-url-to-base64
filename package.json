@@ -1,0 +1,14 @@
+{
+  "name": "css-svg-url-to-base64",
+  "version": "1.0.0",
+  "description": "CSS file's background SVG to base64 converter",
+  "main": "postcss.config.js",
+  "devDependencies": {
+    "postcss": "^7.0.23",
+    "postcss-svg": "^3.0.0",
+    "postcss-preset-env": "^6.7.0",
+    "cssnano": "^4.1.10"
+  },
+  "author": "Md Obydullah",
+  "license": "ISC"
+}
